@@ -1,6 +1,3 @@
 # hello-world
-
-This is Sicong. I am here to learn about web development.
-I like classic movies. The only tv series I have watched many times is Friends.
-
-I have watched too much TV...
+a girl aming to be a web developer.
+also a movie fan.
